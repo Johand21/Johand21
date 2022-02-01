@@ -11,4 +11,8 @@
 https://www.linkedin.com/in/johan-rueda-997827229/
 
 #### Actualmente me dedico a:
-
+-JavaScript
+-HTML
+-CSS
+-Reac js
+-Node js
