@@ -9,3 +9,6 @@
 -Node js
 <h3 align ="left">Conéctate conmigo:</h3>
 https://www.linkedin.com/in/johan-rueda-997827229/
+
+#### Actualmente me dedico a:
+
