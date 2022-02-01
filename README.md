@@ -7,7 +7,7 @@
 <li>-CSS
 <li>-Reac js
 <li>-Node js
-</li>  
+
 <h3 align ="left">Conéctate conmigo:</h3>
 https://www.linkedin.com/in/johan-rueda-997827229/
 
